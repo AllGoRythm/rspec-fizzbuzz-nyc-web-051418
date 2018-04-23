@@ -15,5 +15,4 @@ until i > number
 i += 1
 end
 
-
 end
