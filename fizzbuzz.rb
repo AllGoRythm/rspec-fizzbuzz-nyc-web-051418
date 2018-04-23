@@ -12,7 +12,7 @@ until i > number
    "Fizz"
  end
 
-
+i += 1
 end
 
 
