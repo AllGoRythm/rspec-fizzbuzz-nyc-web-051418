@@ -16,3 +16,5 @@ i += 1
 end
 
 end
+
+fizzbuzz(100)
