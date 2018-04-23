@@ -15,8 +15,6 @@
    "Buzz"
  when i % 3 == 0
    "Fizz"
- else
-   nil
  end
 
 
