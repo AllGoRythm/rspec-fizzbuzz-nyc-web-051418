@@ -6,4 +6,5 @@ def fizzbuzz(i) #method accepts one argument
   elsif i % 3 == 0 #method called and passed num divisible by 3
     "Fizz"
   end
+  # don't have to explicitly return "nil" because it is returned after block is run 
 end
