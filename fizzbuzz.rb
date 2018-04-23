@@ -10,5 +10,3 @@ def fizzbuzz(i)
 
 
 end
-
-fizzbuzz(100)
