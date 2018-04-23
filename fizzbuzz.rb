@@ -5,11 +5,11 @@ i = 1
 until i > number
 
   if i % 15 == 0
-   return "Fizzbuzz"
+   puts "Fizzbuzz"
  elsif i % 5 == 0
-   return "Buzz"
+   puts "Buzz"
  elsif i % 3 == 0
-   return "Fizz"
+   puts "Fizz"
  end
 
 i += 1
