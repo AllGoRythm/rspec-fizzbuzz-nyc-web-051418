@@ -7,4 +7,5 @@ def fizzbuzz(i) #method accepts one argument
     "Fizz"
   end
   # don't have to explicitly return "nil" because it is returned after block is run 
+  # will always return nil
 end
