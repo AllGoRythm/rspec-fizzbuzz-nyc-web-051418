@@ -8,6 +8,6 @@ def fizzbuzz(i)
  elsif i % 3 == 0
    puts "Fizz"
  end
-
+binding.pry
 
 end
