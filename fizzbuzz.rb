@@ -1,5 +1,4 @@
-require "pry"
-def fizzbuzz(i)
+ def fizzbuzz(i)
 
   if i % 15 == 0
     "Fizzbuzz"
@@ -8,6 +7,5 @@ def fizzbuzz(i)
  elsif i % 3 == 0
     "Fizz"
  end
-binding.pry
 
 end
